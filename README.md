@@ -1,7 +1,7 @@
 # Lego-Dataset-Analysis
 Exploring the Evolution of Lego
 
-This is a data analysis project from DataCamp.
+### This is a data analysis project from DataCamp.
 This project answers the following questions:
 * What percentage of all Licensed sets ever releases were Star Wars themed?
 NB: Save your answer as a variable 'the_force' in the form of an integer (e.g. 25)
@@ -9,4 +9,10 @@ NB: Save your answer as a variable 'the_force' in the form of an integer (e.g. 2
 Save your answer as a variable 'new_era' in the form of an integer (e.g. 2012)
 * What year had the most number of sets?
 
-To do this analysis I used the Pandas library of Python.
+To do this analysis I used the Pandas library of Python and plotly for interactive Data Visualization.
+
+### Some skills worked on in this project:
+- Reading CSV files with Python
+- Filtering DataFrame based on conditional parameters
+- Grouping data by column values and aggregating it
+- Visualization of data using plotly
